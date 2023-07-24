@@ -1,2 +1,3 @@
-# LAB1
-This is a colab file that have python list and file connection code
+# MD ADNAN MAHMUD
+id: 212-15-4155
+section: 59_A
